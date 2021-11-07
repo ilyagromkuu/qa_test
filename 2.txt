@@ -2,3 +2,10 @@ git reset			// сбрасывает значение индекса git status (
 git commit -am "Modify"		// модификация + add
 git log				
 git rm test_2.json		// del file
+git branch			//статус веток
+git branch apple_pay 		//создать ветку
+
+git checkout apple_pay		//перейти на ветку apple_pay
+
+
+
