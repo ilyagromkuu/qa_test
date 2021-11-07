@@ -61,6 +61,9 @@ git branch apple_pay			//создать ветку
 git checkout apple_pay			//перейти на ветку apple_pay
 git merge apple_pay			//совместить ветку master+apple_pay
 git commit -am "Add into to txt new form" // -am = git add . + commit
+git push -u origin apple_pay		//push новая ветка
+
+
 
  git@github.com:ilyagromkuu/qa_test.git
 
