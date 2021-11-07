@@ -1,0 +1,4 @@
+git reset			// сбрасывает значение индекса git status (т.е. откат)
+git commit -am "Modify"		// модификация + add
+git log				
+git rm test_2.json		// del file
